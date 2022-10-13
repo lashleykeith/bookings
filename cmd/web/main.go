@@ -71,3 +71,7 @@ func main() {
 
 // https://github.com/alexedwards/scs
 // go get github.com/alexedwards/scs/v2
+
+
+// Git Commands https://www.datacamp.com/tutorial/git-push-pull
+// add images
