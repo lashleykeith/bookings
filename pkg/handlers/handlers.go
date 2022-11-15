@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"github.com/lashleykeith/bookings/pkg/config"
-	"github.com/lashleykeith/bookings/pkg/models"
-	"github.com/lashleykeith/bookings/pkg/render"
+	"github.com/tsawler/bookings-app/pkg/config"
+	"github.com/tsawler/bookings-app/pkg/models"
+	"github.com/tsawler/bookings-app/pkg/render"
 	"net/http"
 )
 
